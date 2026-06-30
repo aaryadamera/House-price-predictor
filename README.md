@@ -7,9 +7,9 @@
 **Subject: Data Science**
 
 # Our Team
-  **D. Akshaya - 2420030474**
- **D. Aarya Deeksha - 2420030530**
- **A. Rishitha - 2420030541**
+  ### D. Akshaya - 2420030474 ###
+ ### D. Aarya Deeksha - 2420030530 ###
+ ### A. Rishitha - 2420030541 ###
 
 🔗 **[View Live Project →](https://celebrated-pastelito-238b4d.netlify.app/)**
 
